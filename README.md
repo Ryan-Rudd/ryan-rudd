@@ -1,6 +1,7 @@
 # Ryan Rudd - CEO of AthleteUnseen
 ![](https://raw.githubusercontent.com/athleteunseen/.github/main/profile/banner.png)
 
+[More Here](https://athleteunseen.com/about/team)
 ### About Me
 
 Hey there! 👋 I'm Ryan Rudd, the driving force behind AthleteUnseen. I'm an extraordinary entrepreneur and a talented software engineer, and I founded AthleteUnseen when I was just 15 years old, right from my humble garage! As a dedicated high school varsity baseball player, I personally experienced the challenges of gaining recognition for my athletic abilities. That struggle sparked a fire within me to create a powerful solution for under-rated athletes everywhere.
